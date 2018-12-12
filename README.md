@@ -6,4 +6,4 @@ Python 3.6, OpenCV 3.3.0
 - Determined the height of the person in real world dimensions.
 
 Run this project,
-python yxs173130.py
+python yxs173130-final.py
